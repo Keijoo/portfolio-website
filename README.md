@@ -1,2 +1,2 @@
-# portfolio-website advertising VR and AR
-# https://keijoo.github.io/portfolio-website/
+# Sort project advertising VR and AR
+# https://keijoo.github.io/xr-showcase/
