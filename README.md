@@ -1,2 +1,2 @@
-# Sort project advertising VR and AR
+# Short project advertising VR and AR
 # https://keijoo.github.io/xr-showcase/
